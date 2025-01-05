@@ -7,7 +7,7 @@ jxxghp/moviepilot-v2
 containrrr/watchtower
 amilys/embyserver
 linuxserver/qbittorrent
-linuxserver/transmission
+linuxserver/transmission:4.0.0
 nastool/nas-tools
 zeronews/zeronews
 xianwei2022/stars.client
