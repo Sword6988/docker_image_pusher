@@ -1,4 +1,5 @@
 #支持私库
+shangling/mt-auto-free-to-qb
 guovern/iptv-api
 ionewu/owjdxb
 easychen/cookiecloud
