@@ -26,7 +26,6 @@ chishin/wol-go-web
 filebrowser/filebrowser
 cnk3x/xunlei
 allanpk716/chinesesubfinder
-xhofe/alist
 hslr/sun-panel
 crazyq/pt_helper
 #支持指定架构
